@@ -9,7 +9,10 @@ Osmon Dev (TinyOsmon) is a functional, modular, and lightweight IDE designed spe
 - Output and error messages displayed in a console window
 - Themes support (Soon!)
 
-![image](https://user-images.githubusercontent.com/97128346/229768983-3d02a456-778b-4a7b-a84c-1c07af02f395.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/97128346/229768983-3d02a456-778b-4a7b-a84c-1c07af02f395.png" width="800" />
+</p>
+
 
 
 ## Installation
@@ -35,4 +38,6 @@ If you would like to contribute to Osmon Dev, please fork the repository and sub
 
 ## License
 
+Osmon Dev (tinyOsmon) is licensed under the GNU General Public License v2.0. See [LICENSE](LICENSE) for more information.
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+
