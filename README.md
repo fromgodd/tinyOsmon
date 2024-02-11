@@ -1,4 +1,4 @@
-# Osmon Dev (tinyOsmon)
+# Osmon Dev (tinyOsmon) DEPRECATED.
 
 Osmon Dev (TinyOsmon) is a functional, modular, and lightweight IDE designed specifically for the Osmon programming language. It offers an intuitive and user-friendly interface that allows developers to easily create, edit, and run Osmon code. With its powerful features and streamlined design, Osmon Dev is the ideal choice for developers who want to write efficient and effective Osmon code
 
@@ -7,7 +7,7 @@ Osmon Dev (TinyOsmon) is a functional, modular, and lightweight IDE designed spe
 - Syntax highlighting for Osmon language
 - Run Osmon programs directly from the IDE
 - Output and error messages displayed in a console window
-- Themes support (Soon!)
+- Themes support (Probably will be not implemented!). Searching for contributors)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/97128346/229768983-3d02a456-778b-4a7b-a84c-1c07af02f395.png" width="800" />
